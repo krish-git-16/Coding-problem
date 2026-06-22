@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krish-git-16/Coding-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krish-git-16/Coding-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/krish-git-16/Coding-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0410-split-array-largest-sum](https://github.com/krish-git-16/Coding-problem/tree/master/0410-split-array-largest-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,14 +74,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krish-git-16/Coding-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krish-git-16/Coding-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/krish-git-16/Coding-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0410-split-array-largest-sum](https://github.com/krish-git-16/Coding-problem/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krish-git-16/Coding-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/krish-git-16/Coding-problem/tree/master/0410-split-array-largest-sum) |
 ## Binary Search
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krish-git-16/Coding-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/krish-git-16/Coding-problem/tree/master/0410-split-array-largest-sum) |
 ## Graph Theory
 |  |
 | ------- |
@@ -97,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/krish-git-16/Coding-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/krish-git-16/Coding-problem/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
