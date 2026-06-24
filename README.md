@@ -76,21 +76,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/krish-git-16/Coding-problem/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/krish-git-16/Coding-problem/tree/master/0112-path-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/krish-git-16/Coding-problem/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/krish-git-16/Coding-problem/tree/master/0112-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/krish-git-16/Coding-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/krish-git-16/Coding-problem/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/krish-git-16/Coding-problem/tree/master/0112-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/krish-git-16/Coding-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/krish-git-16/Coding-problem/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/krish-git-16/Coding-problem/tree/master/0112-path-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Dynamic Programming
 |  |
