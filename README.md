@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/krish-git-16/Coding-problem/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/krish-git-16/Coding-problem/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/krish-git-16/Coding-problem/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/krish-git-16/Coding-problem/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krish-git-16/Coding-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krish-git-16/Coding-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krish-git-16/Coding-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/krish-git-16/Coding-problem/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/krish-git-16/Coding-problem/tree/master/0078-subsets) |
 ## Tree
 |  |
 | ------- |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/krish-git-16/Coding-problem/tree/master/0042-trapping-rain-water) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/krish-git-16/Coding-problem/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
