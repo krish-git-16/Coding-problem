@@ -13,10 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/krish-git-16/Coding-problem/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/krish-git-16/Coding-problem/tree/master/0012-integer-to-roman) |
 | [0172-factorial-trailing-zeroes](https://github.com/krish-git-16/Coding-problem/tree/master/0172-factorial-trailing-zeroes) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/krish-git-16/Coding-problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/krish-git-16/Coding-problem/tree/master/0002-add-two-numbers) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/krish-git-16/Coding-problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## String
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/krish-git-16/Coding-problem/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/krish-git-16/Coding-problem/tree/master/0875-koko-eating-bananas) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/krish-git-16/Coding-problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/krish-git-16/Coding-problem/tree/master/0078-subsets) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/krish-git-16/Coding-problem/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/krish-git-16/Coding-problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
