@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/krish-git-16/Coding-problem/tree/master/0014-longest-common-prefix) |
 | [0516-longest-palindromic-subsequence](https://github.com/krish-git-16/Coding-problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krish-git-16/Coding-problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2785-sort-vowels-in-a-string](https://github.com/krish-git-16/Coding-problem/tree/master/2785-sort-vowels-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/krish-git-16/Coding-problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/krish-git-16/Coding-problem/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/krish-git-16/Coding-problem/tree/master/0018-4sum) |
+| [2785-sort-vowels-in-a-string](https://github.com/krish-git-16/Coding-problem/tree/master/2785-sort-vowels-in-a-string) |
 ## Trie
 |  |
 | ------- |
