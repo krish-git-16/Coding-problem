@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/krish-git-16/Coding-problem/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/krish-git-16/Coding-problem/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/krish-git-16/Coding-problem/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/krish-git-16/Coding-problem/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/krish-git-16/Coding-problem/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/krish-git-16/Coding-problem/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/krish-git-16/Coding-problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/krish-git-16/Coding-problem/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/krish-git-16/Coding-problem/tree/master/0063-unique-paths-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/krish-git-16/Coding-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Prefix Sum
@@ -200,5 +202,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/krish-git-16/Coding-problem/tree/master/0059-spiral-matrix-ii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krish-git-16/Coding-problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
