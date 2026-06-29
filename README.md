@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/krish-git-16/Coding-problem/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/krish-git-16/Coding-problem/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/krish-git-16/Coding-problem/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/krish-git-16/Coding-problem/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/krish-git-16/Coding-problem/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/krish-git-16/Coding-problem/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/krish-git-16/Coding-problem/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sorting
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/krish-git-16/Coding-problem/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/krish-git-16/Coding-problem/tree/master/0041-first-missing-positive) |
+| [0160-intersection-of-two-linked-lists](https://github.com/krish-git-16/Coding-problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0560-subarray-sum-equals-k](https://github.com/krish-git-16/Coding-problem/tree/master/0560-subarray-sum-equals-k) |
 ## Stack
 |  |
