@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krish-git-16/Coding-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krish-git-16/Coding-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krish-git-16/Coding-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/krish-git-16/Coding-problem/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/krish-git-16/Coding-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0410-split-array-largest-sum](https://github.com/krish-git-16/Coding-problem/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/krish-git-16/Coding-problem/tree/master/0560-subarray-sum-equals-k) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/krish-git-16/Coding-problem/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/krish-git-16/Coding-problem/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/krish-git-16/Coding-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Breadth-First Search
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/krish-git-16/Coding-problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/krish-git-16/Coding-problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/krish-git-16/Coding-problem/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/krish-git-16/Coding-problem/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/krish-git-16/Coding-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Binary Tree
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/krish-git-16/Coding-problem/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/krish-git-16/Coding-problem/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/krish-git-16/Coding-problem/tree/master/0063-unique-paths-ii) |
+| [0200-number-of-islands](https://github.com/krish-git-16/Coding-problem/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/krish-git-16/Coding-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Prefix Sum
 |  |
@@ -226,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/krish-git-16/Coding-problem/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/krish-git-16/Coding-problem/tree/master/0059-spiral-matrix-ii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krish-git-16/Coding-problem/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/krish-git-16/Coding-problem/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
