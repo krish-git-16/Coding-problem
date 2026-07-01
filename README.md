@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/krish-git-16/Coding-problem/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/krish-git-16/Coding-problem/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/krish-git-16/Coding-problem/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/krish-git-16/Coding-problem/tree/master/0283-move-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/krish-git-16/Coding-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0410-split-array-largest-sum](https://github.com/krish-git-16/Coding-problem/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/krish-git-16/Coding-problem/tree/master/0560-subarray-sum-equals-k) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/krish-git-16/Coding-problem/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/krish-git-16/Coding-problem/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/krish-git-16/Coding-problem/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/krish-git-16/Coding-problem/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
