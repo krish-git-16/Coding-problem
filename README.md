@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/krish-git-16/Coding-problem/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/krish-git-16/Coding-problem/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/krish-git-16/Coding-problem/tree/master/0263-ugly-number) |
+| [0412-fizz-buzz](https://github.com/krish-git-16/Coding-problem/tree/master/0412-fizz-buzz) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krish-git-16/Coding-problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/krish-git-16/Coding-problem/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/krish-git-16/Coding-problem/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/krish-git-16/Coding-problem/tree/master/0171-excel-sheet-column-number) |
+| [0412-fizz-buzz](https://github.com/krish-git-16/Coding-problem/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/krish-git-16/Coding-problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krish-git-16/Coding-problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2785-sort-vowels-in-a-string](https://github.com/krish-git-16/Coding-problem/tree/master/2785-sort-vowels-in-a-string) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/krish-git-16/Coding-problem/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/krish-git-16/Coding-problem/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/krish-git-16/Coding-problem/tree/master/0412-fizz-buzz) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krish-git-16/Coding-problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Union-Find
 |  |
