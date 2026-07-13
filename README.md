@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/krish-git-16/Coding-problem/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/krish-git-16/Coding-problem/tree/master/0283-move-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/krish-git-16/Coding-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0347-top-k-frequent-elements](https://github.com/krish-git-16/Coding-problem/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/krish-git-16/Coding-problem/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/krish-git-16/Coding-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krish-git-16/Coding-problem/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/krish-git-16/Coding-problem/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/krish-git-16/Coding-problem/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/krish-git-16/Coding-problem/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/krish-git-16/Coding-problem/tree/master/0347-top-k-frequent-elements) |
 | [2785-sort-vowels-in-a-string](https://github.com/krish-git-16/Coding-problem/tree/master/2785-sort-vowels-in-a-string) |
 ## Trie
 |  |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/krish-git-16/Coding-problem/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/krish-git-16/Coding-problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/krish-git-16/Coding-problem/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/krish-git-16/Coding-problem/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/krish-git-16/Coding-problem/tree/master/0560-subarray-sum-equals-k) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/krish-git-16/Coding-problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Stack
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/krish-git-16/Coding-problem/tree/master/0347-top-k-frequent-elements) |
 ## Shortest Path
 |  |
 | ------- |
@@ -349,5 +353,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/krish-git-16/Coding-problem/tree/master/0347-top-k-frequent-elements) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/krish-git-16/Coding-problem/tree/master/0787-cheapest-flights-within-k-stops) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/krish-git-16/Coding-problem/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/krish-git-16/Coding-problem/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/krish-git-16/Coding-problem/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
