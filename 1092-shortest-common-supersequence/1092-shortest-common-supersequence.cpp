@@ -18,63 +18,35 @@ public:
             }
         }
         int i=n,j=m;
-        vector<int>stri;
-        vector<int>strj;
+        string ans;
         while(i>0&&j>0)
         {
             if(dp[i][j]==dp[i-1][j])
             {
                 i--;
+                ans+=str1[i];
             }
             else if(dp[i][j]==dp[i][j-1])
             {
                 j--;
+                ans+=str2[j];
             }
             else
             {
                 i--;
                 j--;
-                stri.push_back(i);
-                strj.push_back(j);
+                ans+=str1[i];
             }
         }
-        if(stri.empty())
-{
-    return str1 + str2;
-}
-        reverse(stri.begin(),stri.end());
-        reverse(strj.begin(),strj.end());
-        
-        string ans;
-        for(int i=0;i<stri[0];i++)
+        while(i--)
         {
             ans+=str1[i];
         }
-        for(int i=0;i<strj[0];i++)
+        while(j--)
         {
-            ans+=str2[i];
+            ans+=str2[j];
         }
-        for(int i=0;i<stri.size()-1;i++)
-        {
-            ans+=str1[stri[i]];
-            for(int j=stri[i]+1;j<stri[i+1];j++)
-            {
-                ans+=str1[j];
-            }
-            for(int j=strj[i]+1;j<strj[i+1];j++)
-            {
-                ans+=str2[j];
-            }
-        }
-        ans+=str1[stri[stri.size()-1]];
-        for(int i=stri[stri.size()-1]+1;i<str1.size();i++)
-        {
-            ans+=str1[i];
-        }
-        for(int i=strj[strj.size()-1]+1;i<str2.size();i++)
-        {
-            ans+=str2[i];
-        }
+        reverse(ans.begin(),ans.end());
         return ans;
     }
 };
