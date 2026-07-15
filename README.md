@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/krish-git-16/Coding-problem/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/krish-git-16/Coding-problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krish-git-16/Coding-problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1092-shortest-common-supersequence](https://github.com/krish-git-16/Coding-problem/tree/master/1092-shortest-common-supersequence) |
 | [2785-sort-vowels-in-a-string](https://github.com/krish-git-16/Coding-problem/tree/master/2785-sort-vowels-in-a-string) |
 ## Array
 |  |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/krish-git-16/Coding-problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/krish-git-16/Coding-problem/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/krish-git-16/Coding-problem/tree/master/0931-minimum-falling-path-sum) |
+| [1092-shortest-common-supersequence](https://github.com/krish-git-16/Coding-problem/tree/master/1092-shortest-common-supersequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/krish-git-16/Coding-problem/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/krish-git-16/Coding-problem/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Greedy
