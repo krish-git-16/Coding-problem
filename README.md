@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/krish-git-16/Coding-problem/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/krish-git-16/Coding-problem/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/krish-git-16/Coding-problem/tree/master/0014-longest-common-prefix) |
+| [0072-edit-distance](https://github.com/krish-git-16/Coding-problem/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/krish-git-16/Coding-problem/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/krish-git-16/Coding-problem/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/krish-git-16/Coding-problem/tree/master/0127-word-ladder) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/krish-git-16/Coding-problem/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/krish-git-16/Coding-problem/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/krish-git-16/Coding-problem/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/krish-git-16/Coding-problem/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/krish-git-16/Coding-problem/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/krish-git-16/Coding-problem/tree/master/0118-pascals-triangle) |
