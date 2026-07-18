@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/krish-git-16/Coding-problem/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/krish-git-16/Coding-problem/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/krish-git-16/Coding-problem/tree/master/0283-move-zeroes) |
+| [0312-burst-balloons](https://github.com/krish-git-16/Coding-problem/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/krish-git-16/Coding-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/krish-git-16/Coding-problem/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/krish-git-16/Coding-problem/tree/master/0410-split-array-largest-sum) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/krish-git-16/Coding-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krish-git-16/Coding-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/krish-git-16/Coding-problem/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0312-burst-balloons](https://github.com/krish-git-16/Coding-problem/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/krish-git-16/Coding-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0410-split-array-largest-sum](https://github.com/krish-git-16/Coding-problem/tree/master/0410-split-array-largest-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/krish-git-16/Coding-problem/tree/master/0516-longest-palindromic-subsequence) |
