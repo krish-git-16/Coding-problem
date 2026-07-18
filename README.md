@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/krish-git-16/Coding-problem/tree/master/0002-add-two-numbers) |
+| [0044-wildcard-matching](https://github.com/krish-git-16/Coding-problem/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/krish-git-16/Coding-problem/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/krish-git-16/Coding-problem/tree/master/0231-power-of-two) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krish-git-16/Coding-problem/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/krish-git-16/Coding-problem/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/krish-git-16/Coding-problem/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/krish-git-16/Coding-problem/tree/master/0014-longest-common-prefix) |
+| [0044-wildcard-matching](https://github.com/krish-git-16/Coding-problem/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/krish-git-16/Coding-problem/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/krish-git-16/Coding-problem/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/krish-git-16/Coding-problem/tree/master/0125-valid-palindrome) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/krish-git-16/Coding-problem/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/krish-git-16/Coding-problem/tree/master/0044-wildcard-matching) |
 | [0063-unique-paths-ii](https://github.com/krish-git-16/Coding-problem/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/krish-git-16/Coding-problem/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/krish-git-16/Coding-problem/tree/master/0085-maximal-rectangle) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/krish-git-16/Coding-problem/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krish-git-16/Coding-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/krish-git-16/Coding-problem/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krish-git-16/Coding-problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
