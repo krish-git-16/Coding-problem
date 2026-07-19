@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/krish-git-16/Coding-problem/tree/master/0931-minimum-falling-path-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1043-partition-array-for-maximum-sum](https://github.com/krish-git-16/Coding-problem/tree/master/1043-partition-array-for-maximum-sum) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/krish-git-16/Coding-problem/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/krish-git-16/Coding-problem/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krish-git-16/Coding-problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/krish-git-16/Coding-problem/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/krish-git-16/Coding-problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krish-git-16/Coding-problem/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/krish-git-16/Coding-problem/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/krish-git-16/Coding-problem/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/krish-git-16/Coding-problem/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Graph Theory
 |  |
