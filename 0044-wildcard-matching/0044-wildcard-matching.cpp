@@ -30,7 +30,15 @@ public:
         return dp[i][j]=0;
     }
     bool isMatch(string s, string p) {
-        vector<vector<int>>dp(s.size()+1,vector<int>(p.size()+1,-1));
+        int n=s.size(),m=p.size();
+        vector<vector<int>>dp(n+1,vector<int>(m+1,-1));
         return solve(s,p,s.size(),p.size(),dp);
+        // for(int i=1;i<=s.size();i++)
+        // {
+        //     for(int j=1;j<=p.size();j++)
+        //     {
+
+        //     }
+        // }
     }
 };
