@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/krish-git-16/Coding-problem/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/krish-git-16/Coding-problem/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/krish-git-16/Coding-problem/tree/master/0171-excel-sheet-column-number) |
+| [0257-binary-tree-paths](https://github.com/krish-git-16/Coding-problem/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/krish-git-16/Coding-problem/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/krish-git-16/Coding-problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krish-git-16/Coding-problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/krish-git-16/Coding-problem/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/krish-git-16/Coding-problem/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/krish-git-16/Coding-problem/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/krish-git-16/Coding-problem/tree/master/0257-binary-tree-paths) |
 ## Tree
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/krish-git-16/Coding-problem/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/krish-git-16/Coding-problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krish-git-16/Coding-problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/krish-git-16/Coding-problem/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/krish-git-16/Coding-problem/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/krish-git-16/Coding-problem/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/krish-git-16/Coding-problem/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/krish-git-16/Coding-problem/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/krish-git-16/Coding-problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krish-git-16/Coding-problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/krish-git-16/Coding-problem/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/krish-git-16/Coding-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/krish-git-16/Coding-problem/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/krish-git-16/Coding-problem/tree/master/0662-maximum-width-of-binary-tree) |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/krish-git-16/Coding-problem/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/krish-git-16/Coding-problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/krish-git-16/Coding-problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/krish-git-16/Coding-problem/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/krish-git-16/Coding-problem/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/krish-git-16/Coding-problem/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/krish-git-16/Coding-problem/tree/master/0783-minimum-distance-between-bst-nodes) |
