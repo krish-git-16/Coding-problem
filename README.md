@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/krish-git-16/Coding-problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/krish-git-16/Coding-problem/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/krish-git-16/Coding-problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/krish-git-16/Coding-problem/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/krish-git-16/Coding-problem/tree/master/0120-triangle) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krish-git-16/Coding-problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/krish-git-16/Coding-problem/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/krish-git-16/Coding-problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/krish-git-16/Coding-problem/tree/master/0112-path-sum) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/krish-git-16/Coding-problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/krish-git-16/Coding-problem/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/krish-git-16/Coding-problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/krish-git-16/Coding-problem/tree/master/0112-path-sum) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/krish-git-16/Coding-problem/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/krish-git-16/Coding-problem/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/krish-git-16/Coding-problem/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/krish-git-16/Coding-problem/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/krish-git-16/Coding-problem/tree/master/0160-intersection-of-two-linked-lists) |
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/krish-git-16/Coding-problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krish-git-16/Coding-problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/krish-git-16/Coding-problem/tree/master/0347-top-k-frequent-elements) |
 ## Shortest Path
