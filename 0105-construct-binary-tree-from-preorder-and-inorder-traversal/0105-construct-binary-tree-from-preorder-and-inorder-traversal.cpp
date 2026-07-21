@@ -19,13 +19,11 @@ public:
         }
         int mid=i;
         TreeNode* root=new TreeNode(preorder[i]);
-        int flag=0;
         for(int j=l;j<=r;j++)
         {
             if(preorder[i]==inorder[j])
             {
                 mid=j;
-                flag=1;
                 break;
             }
         }
