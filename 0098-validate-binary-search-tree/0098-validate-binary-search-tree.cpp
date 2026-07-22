@@ -11,26 +11,19 @@
  */
 class Solution {
 public:
-    void solve(vector<int>&arr,TreeNode* root)
+    bool solve(TreeNode* root,long long mi,long long ma)
     {
         if(!root)
         {
-            return;
+            return 1;
         }
-        solve(arr,root->left);
-        arr.push_back(root->val);
-        solve(arr,root->right);
+        if(root->val<=mi||root->val>=ma)
+        {
+            return 0;
+        }
+        return solve(root->left,mi,root->val)&&solve(root->right,root->val,ma);
     }
     bool isValidBST(TreeNode* root) {
-        vector<int>arr;
-        solve(arr,root);
-        for(int i=1;i<arr.size();i++)
-        {
-            if(arr[i]<=arr[i-1])
-            {
-                return 0;
-            }
-        }
-        return 1;
+        return solve(root,LLONG_MIN,LLONG_MAX);
     }
 };
