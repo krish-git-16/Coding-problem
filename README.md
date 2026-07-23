@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/krish-git-16/Coding-problem/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/krish-git-16/Coding-problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/krish-git-16/Coding-problem/tree/master/0328-odd-even-linked-list) |
+| [1472-design-browser-history](https://github.com/krish-git-16/Coding-problem/tree/master/1472-design-browser-history) |
 ## Math
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/krish-git-16/Coding-problem/tree/master/1043-partition-array-for-maximum-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/krish-git-16/Coding-problem/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/krish-git-16/Coding-problem/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1472-design-browser-history](https://github.com/krish-git-16/Coding-problem/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/krish-git-16/Coding-problem/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/krish-git-16/Coding-problem/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krish-git-16/Coding-problem/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krish-git-16/Coding-problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1472-design-browser-history](https://github.com/krish-git-16/Coding-problem/tree/master/1472-design-browser-history) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -461,4 +464,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/krish-git-16/Coding-problem/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/krish-git-16/Coding-problem/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/krish-git-16/Coding-problem/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/krish-git-16/Coding-problem/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
