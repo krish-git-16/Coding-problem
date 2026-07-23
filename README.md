@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/krish-git-16/Coding-problem/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/krish-git-16/Coding-problem/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/krish-git-16/Coding-problem/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/krish-git-16/Coding-problem/tree/master/0507-perfect-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krish-git-16/Coding-problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
