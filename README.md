@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/krish-git-16/Coding-problem/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/krish-git-16/Coding-problem/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/krish-git-16/Coding-problem/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/krish-git-16/Coding-problem/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/krish-git-16/Coding-problem/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/krish-git-16/Coding-problem/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/krish-git-16/Coding-problem/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/krish-git-16/Coding-problem/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/krish-git-16/Coding-problem/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/krish-git-16/Coding-problem/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/krish-git-16/Coding-problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/krish-git-16/Coding-problem/tree/master/0173-binary-search-tree-iterator) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krish-git-16/Coding-problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1472-design-browser-history](https://github.com/krish-git-16/Coding-problem/tree/master/1472-design-browser-history) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/krish-git-16/Coding-problem/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/krish-git-16/Coding-problem/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/krish-git-16/Coding-problem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/krish-git-16/Coding-problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/krish-git-16/Coding-problem/tree/master/0700-search-in-a-binary-search-tree) |
@@ -467,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/krish-git-16/Coding-problem/tree/master/0173-binary-search-tree-iterator) |
 | [1472-design-browser-history](https://github.com/krish-git-16/Coding-problem/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -476,4 +481,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/krish-git-16/Coding-problem/tree/master/1472-design-browser-history) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/krish-git-16/Coding-problem/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
