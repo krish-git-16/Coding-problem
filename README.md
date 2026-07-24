@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/krish-git-16/Coding-problem/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/krish-git-16/Coding-problem/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/krish-git-16/Coding-problem/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/krish-git-16/Coding-problem/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/krish-git-16/Coding-problem/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/krish-git-16/Coding-problem/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/krish-git-16/Coding-problem/tree/master/0412-fizz-buzz) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/krish-git-16/Coding-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/krish-git-16/Coding-problem/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/krish-git-16/Coding-problem/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/krish-git-16/Coding-problem/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/krish-git-16/Coding-problem/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/krish-git-16/Coding-problem/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/krish-git-16/Coding-problem/tree/master/0240-search-a-2d-matrix-ii) |
@@ -490,4 +492,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/krish-git-16/Coding-problem/tree/master/0173-binary-search-tree-iterator) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/krish-git-16/Coding-problem/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/krish-git-16/Coding-problem/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
