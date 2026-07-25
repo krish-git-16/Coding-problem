@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/krish-git-16/Coding-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/krish-git-16/Coding-problem/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/krish-git-16/Coding-problem/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/krish-git-16/Coding-problem/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/krish-git-16/Coding-problem/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/krish-git-16/Coding-problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/krish-git-16/Coding-problem/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/krish-git-16/Coding-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/krish-git-16/Coding-problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0904-fruit-into-baskets](https://github.com/krish-git-16/Coding-problem/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krish-git-16/Coding-problem/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/krish-git-16/Coding-problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Stack
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/krish-git-16/Coding-problem/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/krish-git-16/Coding-problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/krish-git-16/Coding-problem/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/krish-git-16/Coding-problem/tree/master/2302-count-subarrays-with-score-less-than-k) |
