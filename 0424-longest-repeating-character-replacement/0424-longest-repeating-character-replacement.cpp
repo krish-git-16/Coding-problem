@@ -10,7 +10,6 @@ public:
             while(l-f+1-mf>k)
             {
                 alpha[s[f]-'A']--;
-                mf=*max_element(alpha.begin(),alpha.end());
                 f++;
             }
             ans=max(ans,l-f+1);
