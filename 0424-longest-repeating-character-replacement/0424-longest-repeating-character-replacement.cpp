@@ -6,7 +6,7 @@ public:
         while(l<n)
         {
             alpha[s[l]-'A']++;
-            mf=*max_element(alpha.begin(),alpha.end());
+            mf=max(mf,alpha[s[l]-'A']);
             while(l-f+1-mf>k)
             {
                 alpha[s[f]-'A']--;
