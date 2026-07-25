@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/krish-git-16/Coding-problem/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/krish-git-16/Coding-problem/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/krish-git-16/Coding-problem/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/krish-git-16/Coding-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/krish-git-16/Coding-problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krish-git-16/Coding-problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1092-shortest-common-supersequence](https://github.com/krish-git-16/Coding-problem/tree/master/1092-shortest-common-supersequence) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/krish-git-16/Coding-problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/krish-git-16/Coding-problem/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/krish-git-16/Coding-problem/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/krish-git-16/Coding-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/krish-git-16/Coding-problem/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/krish-git-16/Coding-problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/krish-git-16/Coding-problem/tree/master/0904-fruit-into-baskets) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/krish-git-16/Coding-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/krish-git-16/Coding-problem/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/krish-git-16/Coding-problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krish-git-16/Coding-problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
