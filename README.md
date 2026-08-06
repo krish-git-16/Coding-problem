@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/krish-git-16/Coding-problem/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/krish-git-16/Coding-problem/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/krish-git-16/Coding-problem/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [3731-find-missing-elements](https://github.com/krish-git-16/Coding-problem/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/krish-git-16/Coding-problem/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/krish-git-16/Coding-problem/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2785-sort-vowels-in-a-string](https://github.com/krish-git-16/Coding-problem/tree/master/2785-sort-vowels-in-a-string) |
+| [3731-find-missing-elements](https://github.com/krish-git-16/Coding-problem/tree/master/3731-find-missing-elements) |
 ## Trie
 |  |
 | ------- |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krish-git-16/Coding-problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/krish-git-16/Coding-problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/krish-git-16/Coding-problem/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [3731-find-missing-elements](https://github.com/krish-git-16/Coding-problem/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |
