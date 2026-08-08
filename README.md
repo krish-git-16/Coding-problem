@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/krish-git-16/Coding-problem/tree/master/0257-binary-tree-paths) |
 | [0412-fizz-buzz](https://github.com/krish-git-16/Coding-problem/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/krish-git-16/Coding-problem/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/krish-git-16/Coding-problem/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/krish-git-16/Coding-problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krish-git-16/Coding-problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1092-shortest-common-supersequence](https://github.com/krish-git-16/Coding-problem/tree/master/1092-shortest-common-supersequence) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/krish-git-16/Coding-problem/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/krish-git-16/Coding-problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/krish-git-16/Coding-problem/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/krish-git-16/Coding-problem/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/krish-git-16/Coding-problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Sorting
 |  |
