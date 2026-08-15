@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/krish-git-16/Coding-problem/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/krish-git-16/Coding-problem/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/krish-git-16/Coding-problem/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/krish-git-16/Coding-problem/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/krish-git-16/Coding-problem/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/krish-git-16/Coding-problem/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/krish-git-16/Coding-problem/tree/master/0115-distinct-subsequences) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/krish-git-16/Coding-problem/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/krish-git-16/Coding-problem/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/krish-git-16/Coding-problem/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/krish-git-16/Coding-problem/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/krish-git-16/Coding-problem/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/krish-git-16/Coding-problem/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/krish-git-16/Coding-problem/tree/master/0055-jump-game) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/krish-git-16/Coding-problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/krish-git-16/Coding-problem/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/krish-git-16/Coding-problem/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/krish-git-16/Coding-problem/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/krish-git-16/Coding-problem/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/krish-git-16/Coding-problem/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/krish-git-16/Coding-problem/tree/master/0347-top-k-frequent-elements) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/krish-git-16/Coding-problem/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/krish-git-16/Coding-problem/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/krish-git-16/Coding-problem/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/krish-git-16/Coding-problem/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
