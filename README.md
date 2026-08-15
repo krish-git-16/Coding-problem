@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/krish-git-16/Coding-problem/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/krish-git-16/Coding-problem/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/krish-git-16/Coding-problem/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/krish-git-16/Coding-problem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/krish-git-16/Coding-problem/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/krish-git-16/Coding-problem/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/krish-git-16/Coding-problem/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/krish-git-16/Coding-problem/tree/master/0231-power-of-two) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/krish-git-16/Coding-problem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Queue
 |  |
 | ------- |
