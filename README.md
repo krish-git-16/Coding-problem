@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/krish-git-16/Coding-problem/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/krish-git-16/Coding-problem/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/krish-git-16/Coding-problem/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/krish-git-16/Coding-problem/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/krish-git-16/Coding-problem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/krish-git-16/Coding-problem/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/krish-git-16/Coding-problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/krish-git-16/Coding-problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/krish-git-16/Coding-problem/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/krish-git-16/Coding-problem/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/krish-git-16/Coding-problem/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
