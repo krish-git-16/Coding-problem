@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/krish-git-16/Coding-problem/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/krish-git-16/Coding-problem/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/krish-git-16/Coding-problem/tree/master/0014-longest-common-prefix) |
+| [0032-longest-valid-parentheses](https://github.com/krish-git-16/Coding-problem/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/krish-git-16/Coding-problem/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/krish-git-16/Coding-problem/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/krish-git-16/Coding-problem/tree/master/0072-edit-distance) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/krish-git-16/Coding-problem/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/krish-git-16/Coding-problem/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/krish-git-16/Coding-problem/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/krish-git-16/Coding-problem/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/krish-git-16/Coding-problem/tree/master/0045-jump-game-ii) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/krish-git-16/Coding-problem/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/krish-git-16/Coding-problem/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/krish-git-16/Coding-problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/krish-git-16/Coding-problem/tree/master/0085-maximal-rectangle) |
@@ -605,4 +608,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/krish-git-16/Coding-problem/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/krish-git-16/Coding-problem/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/krish-git-16/Coding-problem/tree/master/0183-customers-who-never-order) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/krish-git-16/Coding-problem/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
