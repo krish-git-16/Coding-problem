@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/krish-git-16/Coding-problem/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/krish-git-16/Coding-problem/tree/master/0171-excel-sheet-column-number) |
 | [0257-binary-tree-paths](https://github.com/krish-git-16/Coding-problem/tree/master/0257-binary-tree-paths) |
+| [0402-remove-k-digits](https://github.com/krish-git-16/Coding-problem/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/krish-git-16/Coding-problem/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/krish-git-16/Coding-problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/krish-git-16/Coding-problem/tree/master/0443-string-compression) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/krish-git-16/Coding-problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/krish-git-16/Coding-problem/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/krish-git-16/Coding-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/krish-git-16/Coding-problem/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/krish-git-16/Coding-problem/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/krish-git-16/Coding-problem/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krish-git-16/Coding-problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/krish-git-16/Coding-problem/tree/master/0173-binary-search-tree-iterator) |
+| [0402-remove-k-digits](https://github.com/krish-git-16/Coding-problem/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/krish-git-16/Coding-problem/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/krish-git-16/Coding-problem/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krish-git-16/Coding-problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/krish-git-16/Coding-problem/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/krish-git-16/Coding-problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/krish-git-16/Coding-problem/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/krish-git-16/Coding-problem/tree/master/0402-remove-k-digits) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/krish-git-16/Coding-problem/tree/master/2104-sum-of-subarray-ranges) |
 ## Bit Manipulation
