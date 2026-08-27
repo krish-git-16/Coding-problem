@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/krish-git-16/Coding-problem/tree/master/1927-sum-game) |
 | [2785-sort-vowels-in-a-string](https://github.com/krish-git-16/Coding-problem/tree/master/2785-sort-vowels-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/krish-git-16/Coding-problem/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/krish-git-16/Coding-problem/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Array
 |  |
 | ------- |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krish-git-16/Coding-problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/krish-git-16/Coding-problem/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/krish-git-16/Coding-problem/tree/master/1927-sum-game) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/krish-git-16/Coding-problem/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/krish-git-16/Coding-problem/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Binary Search
 |  |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/krish-git-16/Coding-problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/krish-git-16/Coding-problem/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/krish-git-16/Coding-problem/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/krish-git-16/Coding-problem/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/krish-git-16/Coding-problem/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/krish-git-16/Coding-problem/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/krish-git-16/Coding-problem/tree/master/0992-subarrays-with-k-different-integers) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/krish-git-16/Coding-problem/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Quickselect
 |  |
 | ------- |
@@ -591,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/krish-git-16/Coding-problem/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/krish-git-16/Coding-problem/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/krish-git-16/Coding-problem/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [4024-nearest-available-drone](https://github.com/krish-git-16/Coding-problem/tree/master/4024-nearest-available-drone) |
 ## Number Theory
 |  |
