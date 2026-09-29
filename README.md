@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/krish-git-16/Coding-problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2104-sum-of-subarray-ranges](https://github.com/krish-git-16/Coding-problem/tree/master/2104-sum-of-subarray-ranges) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/krish-git-16/Coding-problem/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/krish-git-16/Coding-problem/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/krish-git-16/Coding-problem/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/krish-git-16/Coding-problem/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/krish-git-16/Coding-problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/krish-git-16/Coding-problem/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/krish-git-16/Coding-problem/tree/master/1563-stone-game-v) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/krish-git-16/Coding-problem/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/krish-git-16/Coding-problem/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Greedy
 |  |
 | ------- |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/krish-git-16/Coding-problem/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/krish-git-16/Coding-problem/tree/master/0931-minimum-falling-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/krish-git-16/Coding-problem/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/krish-git-16/Coding-problem/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/krish-git-16/Coding-problem/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/krish-git-16/Coding-problem/tree/master/0678-valid-parenthesis-string) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/krish-git-16/Coding-problem/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Combinatorics
 |  |
 | ------- |
