@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/krish-git-16/Coding-problem/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/krish-git-16/Coding-problem/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/krish-git-16/Coding-problem/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/krish-git-16/Coding-problem/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krish-git-16/Coding-problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1092-shortest-common-supersequence](https://github.com/krish-git-16/Coding-problem/tree/master/1092-shortest-common-supersequence) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/krish-git-16/Coding-problem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/krish-git-16/Coding-problem/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/krish-git-16/Coding-problem/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/krish-git-16/Coding-problem/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/krish-git-16/Coding-problem/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/krish-git-16/Coding-problem/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/krish-git-16/Coding-problem/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/krish-git-16/Coding-problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/krish-git-16/Coding-problem/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/krish-git-16/Coding-problem/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/krish-git-16/Coding-problem/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/krish-git-16/Coding-problem/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/krish-git-16/Coding-problem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/krish-git-16/Coding-problem/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Combinatorics
